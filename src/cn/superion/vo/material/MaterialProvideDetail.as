@@ -43,6 +43,7 @@ package cn.superion.vo.material
 		public var sendAmount:Number;
 		public var storageMaterialSign:String;
 		public var mainProvider:String;
+		public var currentStatus:String;
 		
 		public function MaterialProvideDetail()
 		{
